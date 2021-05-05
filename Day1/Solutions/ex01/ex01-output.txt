@@ -1,0 +1,8 @@
+ This is rank = 3 of nproc = 8 on node: cn01
+ This is rank = 0 of nproc = 8 on node: cn01
+ This is rank = 1 of nproc = 8 on node: cn01
+ This is rank = 2 of nproc = 8 on node: cn01
+ This is rank = 7 of nproc = 8 on node: cn02
+ This is rank = 5 of nproc = 8 on node: cn02
+ This is rank = 6 of nproc = 8 on node: cn02
+ This is rank = 4 of nproc = 8 on node: cn02

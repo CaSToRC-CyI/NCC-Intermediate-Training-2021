@@ -1,0 +1,8 @@
+ This is rank = 2 of nproc = 8 on node: cn01 | var_proc = 0.662743   var_prev = 0.577216   var_next = 0.693147
+ This is rank = 3 of nproc = 8 on node: cn01 | var_proc = 0.693147   var_prev = 0.662743   var_next = 1.414214
+ This is rank = 4 of nproc = 8 on node: cn02 | var_proc = 1.414214   var_prev = 0.693147   var_next = 1.618034
+ This is rank = 5 of nproc = 8 on node: cn02 | var_proc = 1.618034   var_prev = 1.414214   var_next = 2.718282
+ This is rank = 1 of nproc = 8 on node: cn01 | var_proc = 0.577216   var_prev = 0.428166   var_next = 0.662743
+ This is rank = 0 of nproc = 8 on node: cn01 | var_proc = 0.428166   var_prev = 3.141593   var_next = 0.577216
+ This is rank = 6 of nproc = 8 on node: cn02 | var_proc = 2.718282   var_prev = 1.618034   var_next = 3.141593
+ This is rank = 7 of nproc = 8 on node: cn02 | var_proc = 3.141593   var_prev = 2.718282   var_next = 0.428166

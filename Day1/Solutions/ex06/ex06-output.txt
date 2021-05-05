@@ -1,0 +1,1 @@
+ Used 40 processes, sum = 1266.960662
